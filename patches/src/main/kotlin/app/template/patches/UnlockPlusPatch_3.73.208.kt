@@ -1,4 +1,4 @@
-package hooman.morphe.patches.finch.plus
+package app.template.patches
 
 import app.morphe.patcher.patch.AppTarget
 import app.morphe.patcher.patch.Compatibility
